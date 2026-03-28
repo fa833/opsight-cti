@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import Any
 import pandas as pd
 
+
 # Paths
 FEATURES_PATH = Path("cti_features.csv")
 STIX_PATH = Path("OPSIGHT-main/CTI/stix/opsight_cti_stix_bundle.json")
